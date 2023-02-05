@@ -44,3 +44,4 @@ function calculatePotatoes(user) {
       `<p>${result1}</p>
       <p>${result2}</p>
       <p>${result3}</p>`;
+// updates the content of the HTML element (div) to display the results.
