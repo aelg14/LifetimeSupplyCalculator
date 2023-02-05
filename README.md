@@ -1,0 +1,2 @@
+# LifetimeSupplyCalculator
+Basic JS exercise 
